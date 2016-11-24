@@ -1,6 +1,6 @@
 import Ember from 'ember';
 
-const { Component, computed } = Ember;
+const { computed } = Ember;
 
 export default Ember.Component.extend({
 classNames: ['input-field'],
